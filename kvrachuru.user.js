@@ -7,6 +7,8 @@
 // @license      MIT
 // @match        https://k-vrachu.ru/*
 // @match        https://*.k-vrachu.ru/*
+// @updateURL    https://github.com/botusss/k-vrachu/raw/refs/heads/main/kvrachuru.user.js
+// @downloadURL  https://github.com/botusss/k-vrachu/raw/refs/heads/main/kvrachuru.user.js
 // @grant        GM_addStyle
 // @run-at       document-idle
 // ==/UserScript==
